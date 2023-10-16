@@ -17,4 +17,5 @@ Real-time Monitoring
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests to suggest improvements or report bugs.
 
-https://ars.els-cdn.com/content/image/1-s2.0-S2667295221000209-gr2.jpg
+
+![image](https://github.com/himanshuwarudkar9/Anomaly-Detection-in-Web-Application-Logs-Using-Machine-Learning/assets/134875100/3d9d4546-ff1f-4bdd-b3de-195355ac5c18)
