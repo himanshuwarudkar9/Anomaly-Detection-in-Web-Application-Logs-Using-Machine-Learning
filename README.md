@@ -5,9 +5,9 @@ Web applications generate a massive amount of log data, which can be overwhelmin
 This project leverages machine learning techniques to automatically identify and flag abnormal log entries, helping to enhance security and performance.
 
 ## Features
-Automatic Anomaly Detection
-Easy Integration
-Real-time Monitoring
+1.Automatic Anomaly Detection
+2.Easy Integration
+3.Real-time Monitoring
 
 ## Requirements
 - Python 3
